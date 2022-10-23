@@ -16,7 +16,6 @@ brew "glib"
 brew "go"
 brew "jq"
 brew "keychain"
-brew "mysql@5.6"
 brew "mysql@5.7", restart_service: true
 brew "node", link: false
 brew "node-build"
