@@ -7,5 +7,6 @@ git
 # Usage
 ```console
 $ git clone git@github.com:yukoono/dotfiles.git
-$ ./dotfiles/install.sh
 ```
+
+ファイル数が少ないためコピペしてください
