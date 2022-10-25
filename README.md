@@ -7,6 +7,10 @@ git
 # Usage
 ```console
 $ git clone git@github.com:yukoono/dotfiles.git
+$ cd dotfiles
+$ make
 ```
 
-ファイル数が少ないためコピペしてください
+# Reference
+https://dev.classmethod.jp/articles/joined-mac-dotfiles-customize/ を参照して作りました。
+ノウハウの公開ありがとうございます。
